@@ -1,0 +1,735 @@
+[
+    {
+        "Bus Name": "Achim Paribahan",
+        "Route": "Route: Gabtoli - Technical - Ansar Camp - Mirpur 1 - Sony Cenema\r\n                        Hall - Mirpur 2 - Mirpur 10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril\r\n                        Bishwa Road - Jamuna Future Park - Bashundhara - Nadda - Notun Bazar - Bashtola - Shahjadpur -\r\n                        Uttar Badda - Badda - Madhya Badda - Merul - Rampura Bridge - Banasree - Demra Staff Quarter\r\n                    "
+    },
+    {
+        "Bus Name": "Agradut",
+        "Route": "Route: Savar - Hemayetpur - Amin Bazar - Gabtoli - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - Agargaon - Zia Uddyan - Bijoy Sarani - Jahangir Gate -\r\n                        Mohakhali - Wireless - Gulshan 1 - Badda Link Road - Bashtola - Shahjadpur - Uttar Badda - Notun\r\n                        Bazar"
+    },
+    {
+        "Bus Name": "Airport Bangabandhu Avenue Transport",
+        "Route": "Route: Fulbaria - Golap Shah Mazar - GPO - Paltan - Press Club -\r\n                        High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Bijoy Sarani -\r\n                        Jahangir Gate - Mohakhali - Chairman Bari - Sainik Club - Banani - Kakali - Staff Road - MES -\r\n                        Shewra - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur -\r\n                        House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Ajmeri Glory",
+        "Route": "Route: Sadarghat - Ray Saheb Bazar - Naya Bazar - Golap Shah\r\n                        Mazar - GPO - Paltan - Kakrail - Shantinagar - Malibagh Moor - Mouchak - Nabisco - Mohakhali -\r\n                        Sainik Club - Banani - Kakali - Staff Road - MES - Shewra - Kuril Bishwa Road - Khilkhet -\r\n                        Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi -\r\n                        Station Road - Mill Gate - Board Bazar - Gazipur Bypass - Konabari - Chandra"
+    },
+    {
+        "Bus Name": "Akash",
+        "Route": "Route: Kadamtali - Keraniganj - Babubazar - Naya Bazar - Golap\r\n                        Shah Mazar - GPO - Paltan - Kakrail - Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate\r\n                        - Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda - Shahjadpur - Bashtola - Notun\r\n                        Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road - Khilkhet - Airport -\r\n                        Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi"
+    },
+    {
+        "Bus Name": "Akik",
+        "Route": "Route: Ansar Camp - Mirpur 1 - Sony Cenema Hall - Mirpur 2 -\r\n                        Mirpur 10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Jamuna\r\n                        Future Park - Bashundhara - Nadda - Notun Bazar - Bashtola - Shahjadpur - Uttar Badda"
+    },
+    {
+        "Bus Name": "Al Madina Plus One",
+        "Route": "Route: Nandan Park - Zirani Bazar - Baipayl - Nobinagar - Savar -\r\n                        Hemayetpur - Amin Bazar - Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela - College\r\n                        Gate - Asad Gate - Khamar Bari - Farmgate - Kawran Bazar - Bangla Motor - Shahbag - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Motijheel - Kamalapur"
+    },
+    {
+        "Bus Name": "Al Makka Transport",
+        "Route": "Route: Motijheel - Gulistan - GPO - Paltan - Kakrail -\r\n                        Shantinagar - Malibagh Moor - Mouchak - Mogbazar - Nabisco - Mohakhali - Chairman Bari - Kakali\r\n                        - Banani - ECB Square - Kalshi - Purobi - Mirpur 10 - Mirpur 2 - Mirpur 1"
+    },
+    {
+        "Bus Name": "Alif Enterprise",
+        "Route": "Route: Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema Hall -\r\n                        Mirpur 1 - Mazar Road - Konabari - Rupnagar - Beribadh - Birulia - Ashulia - Zirabo - Fantasy\r\n                        Kingdom - Nandan Park"
+    },
+    {
+        "Bus Name": "Alif Enterprise",
+        "Route": "Route: Shia Mosque - Japan Garden City - Adabor - Shyamoli -\r\n                        Shishu Mela - Agargaon - Zia Uddyan - Bijoy Sarani - Jahangir Gate - Mohakhali - Wireless -\r\n                        Gulshan 1 - Badda Link Road - Madhya Badda - Merul - Rampura Bridge - Banasree"
+    },
+    {
+        "Bus Name": "Alif Enterprise",
+        "Route": "Route: Mirpur 1 - Mirpur 2 - Mirpur 10 - Kazipara - Shewrapara -\r\n                        Agargaon - Bijoy Sarani - Jahangir Gate - Mohakhali - Wireless - Gulshan 1 - Badda Link Road -\r\n                        Madhya Badda - Merul - Rampura Bridge - Banasree"
+    },
+    {
+        "Bus Name": "Alif Enterprise",
+        "Route": "Route: Japan Garden City - Ring Road - Adabor - Shyamoli - Shishu\r\n                        Mela - Agargaon - Zia Uddyan - Bijoy Sarani - Old Airport - Jahangir Gate - Mohakhali - Chairman\r\n                        Bari - Sainik Club - kakali - Banani - Staff Road - MES - Shewra - Kuril Bishwa Road - Khilkhet\r\n                        - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Anabil Super",
+        "Route": "Route: Sign Board - Shonir Akhra - Jatrabari - Sayedabad -\r\n                        Mugdapara - Bashabo - Khilgaon - Malibagh Railgate - Hazipara - Rampura Bazar - Rampura Bridge -\r\n                        Merul - Badda - Uttar Badda - Shahjadpur - Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna\r\n                        Future Park - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi -\r\n                        Azampur - House Building - Abdullahpur - Tongi - station Road - Mill Gate - Board Bazar -\r\n                        Gazipur Bypass - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "Arnob",
+        "Route": "Route: Hemayetpur - Amin Bazar - Gabtoli - Technical - Kallyanpur\r\n                        - Shyamoli - Shishu Mela - Agargaon - Zia Uddyan - Bijoy Sarani - Jahangir Gate - Mohakhali -\r\n                        Wireless - Gulshan 1 - Badda Link Road - Madhya Badda - Merul - Rampura Bridge - Banasree -\r\n                        Demra Staff Quarter"
+    },
+    {
+        "Bus Name": "Ashirbad Paribahan",
+        "Route": "Route: Duaripara - Rupnagar Abashik - Shiyal Bari - Proshika Moor\r\n                        - Mirpur 2 - Mirpur 1 - Ansar Camp - Technical - Kallyanpur - Shyamoli - Shishu Mela - College\r\n                        Gate - Asad Gate - Dhanmondi 27 - Shukrabad - Dhanmondi 32 - Kalabagan - City College - New\r\n                        Market - Nilkhet - Azimpur"
+    },
+    {
+        "Bus Name": "Ashulia Classic",
+        "Route": "Route: Nobinagar - Baipayl - Jamgora - Fantasy Kingdom - Zirabo -\r\n                        Ashulia Bazar - Kamarpara - Abdullahpur - House Building - Azampur - Rajlakshmi - Jashimuddin\r\n                        (Uttara) - Airport - Khilkhet - Kuril Bishwa Road - Shewra - MES - Kakali - Banani - Chairman\r\n                        Bari - Mohakhali - Nabisco - Satrasta"
+    },
+    {
+        "Bus Name": "Asmani",
+        "Route": "Route: Dhour - Abdullahpur - House Building - Azampur -\r\n                        Rajlakshmi - Jashimuddin (Uttara) - Airport - Khilkhet - Kuril Bishwa Road - Jamuna Future Park\r\n                        - Bashundhara - Nadda - Notun Bazar - Bashtola - Shahjadpur - Uttar Badda - Badda - Madhya Badda\r\n                        - Merul - Rampura Bridge - Banasree - Demra Staff Quarter - Tarabo - Madanpur"
+    },
+    {
+        "Bus Name": "ATCL",
+        "Route": "Route: Mohammadpur Bus Stand - Asad Gate - Shukrabad - Kalabagan\r\n                        City College - Science Lab - Katabon - Bata Signal - Shahbag - Matsya Bhaban - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Arambagh Notre Dame College"
+    },
+    {
+        "Bus Name": "Ayat",
+        "Route": "Route: Chiriyakhana - Sony Cenema Hall - Mirpur 2 - Mirpur 10 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Khamar Bari - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Mogbazar - Mouchak - Malibagh Moor - Rajarbag - Kamalapur"
+    },
+    {
+        "Bus Name": "Bahon",
+        "Route": "Route: Mirpur 14 - Mirpur 10 - Mirpur 2 - Mirpur 1 - Ansar Camp -\r\n                        Bangla College - Technical - Darussalam - Kallyanpur - Shyamoli - Asad Gate - Dhanmondi 27 -\r\n                        Dhanmondi 32 Kalabagan - Science Lab - Katabon - Shahbag - High Court - Press Club - Paltan -\r\n                        Dainik Bangla Moor - Motijheel - Arambagh - Kamalapur - Mugdapara - Bashabo - Khilgaon"
+    },
+    {
+        "Bus Name": "Baishakhi",
+        "Route": "Route: Savar - Hemayetpur - Amin Bazar - Gabtoli - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - Agargaon - Bijoy Sarani - Jahangir Gate - Mohakhali -\r\n                        Gulshan 1 - Badda Link Road - Bashtola - Uttar Badda - Notun Bazar"
+    },
+    {
+        "Bus Name": "Balaka",
+        "Route": "Route: Sayedabad - Manik Nagar - TT Para - Kamalapur - Malibagh\r\n                        Moor - Mouchak - Mogbazar - Satrasta - Nabisco - Mohakhali - Chairman Bari - Banani - Kakali -\r\n                        Staff Road - MES - Shewra - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) -\r\n                        Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi - Station Road - Mill Gate - Board\r\n                        Bazar - Gazipur Bypass - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "Basumati",
+        "Route": "Route: Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela\r\n                        - College Gate - Asad Gate - Manik Mia Avenue - Khamar Bari - Farmgate - Kawran Bazar - Bangla\r\n                        Motor Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Golap Shah Mazar - Naya\r\n                        Bazar - Babubazar - Keraniganj - Maowa"
+    },
+    {
+        "Bus Name": "Basumati Transport",
+        "Route": "Route: Gabtoli - Mirpur 1 - Sony Cenema Hall - Mirpur 2 - Mirpur\r\n                        10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Khilkhet -\r\n                        Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi -\r\n                        Station Road - Mill Gate - Board Bazar - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "Best Shatabdi (AC)",
+        "Route": "Route: Azimpur - Nilkhet - New Market - City College - Kalabagan\r\n                        - Dhanmondi 32 - Dhanmondi 27 - Khamar Bari - Farmgate - Jahangir Gate - Mohakhali - Chairman\r\n                        Bari - Sainik Club - Banani - Kakali - Staff Road - MES - Shewra - Kuril Bishwa Road - Khilkhet\r\n                        - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Diabari"
+    },
+    {
+        "Bus Name": "Best Transport",
+        "Route": "Route: Mirpur 10 - Kazipara - Shewrapara - Taltola - Agargaon -\r\n                        Khamar Bari - Farmgate - Kawran Bazar - Bangla Motor - Shahbag - Matsya Bhaban - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Motijheel - Ittefaq Moor - Sayedabad - Jatrabari"
+    },
+    {
+        "Bus Name": "Bhuyan Paribahan",
+        "Route": "Route: Japan Garden City - Ring Road - Adabor - Shyamoli - Shishu\r\n                        Mela - Agargaon - Zia Uddyan - Bijoy Sarani - Old Airport - Jahangir Gate - Mohakhali - Chairman\r\n                        Bari - Sainik Club - Kakali - Banani - Staff Road - MES - Shewra - Kuril Bishwa Road - Khilkhet\r\n                        - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Bihanga",
+        "Route": "Route: Mirpur 12 - Mirpur 11 - Mirpur 10 - Kazipara - Shewrapara\r\n                        - Agargaon - Bijoy Sarani - Jahangir Gate - Mohakhali - Wireless - Gulshan Bridge - Gulshan 1 -\r\n                        Badda - Notun Bazar"
+    },
+    {
+        "Bus Name": "Bihanga Paribahan",
+        "Route": "Route: Duaripara - Rupnagar Abashik - Proshika Moor - Mirpur 2 -\r\n                        Mirpur 1 - Ansar Camp - Tolarbag - Bangla College - Technical - Darussalam - Kallyanpur Shyamoli\r\n                        - Shishu Mela - College Gate - Asad Gate - Dhanmondi 27 - Dhanmondi 32 - Shukrabad Kalabagan -\r\n                        City College - Science Lab - New Market - Nilkhet - Azimpur"
+    },
+    {
+        "Bus Name": "Bihanga Paribahan",
+        "Route": "Route: Azimpur - Nilkhet - New Market - City College - Kalabagan\r\n                        - Dhanmondi 32 - Dhanmondi 27 - Asad Gate - College Gate - Shyamoli - Kallyanpur - Darussalam -\r\n                        Technical - Bangla College - Tolarbag - Ansar Camp - Mirpur 1 - Mirpur 2 - Proshika Moor -\r\n                        Duaripara"
+    },
+    {
+        "Bus Name": "Bihango",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 1 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Bijoy Sarani - Jahangir Gate - Mohakhali - Wireless\r\n                        - Gulshan Bridge - Gulshan 1 - Badda"
+    },
+    {
+        "Bus Name": "Bihango Paribahan",
+        "Route": "Route: Duaripara - Pallabi - Purobi - Mirpur 11 - Mirpur 10 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Khamar Bari - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Golap Shah Mazar -\r\n                        Naya Bazar - Ray Saheb Bazar - Sadarghat"
+    },
+    {
+        "Bus Name": "Bihango Paribahan",
+        "Route": "Route: Azimpur - Nilkhet - New Market - City College - Kalabagan\r\n                        - Dhanmondi 32 - Dhanmondi 27 - Asad Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur -\r\n                        Darussalam - Technical - Bangla College - Tolarbag - Ansar Camp - Mirpur 1 - Sony Cenema Hall -\r\n                        Mirpur 2 - Proshika Moor - Rupnagar - Duaripara"
+    },
+    {
+        "Bus Name": "Bikalpa auto service",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 1 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Bijoy Sarani - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Gulistan - Motijheel\r\n                    "
+    },
+    {
+        "Bus Name": "Bikalpa City Super Service",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 10 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Shyamoli - Shishu Mela - College Gate - Asad Gate -\r\n                        Dhanmondi 27 - Dhanmondi 32 - Kalabagan - City College - New Market - Nilkhet - Azimpur -\r\n                        Dhakeshwari"
+    },
+    {
+        "Bus Name": "Bikash",
+        "Route": "Route: Azimpur - Nilkhet - New Market - City College - Kalabagan\r\n                        - Dhanmondi 27 - Dhanmondi 32 - Khamar Bari - Farmgate - Jahangir Gate - Mohakhali - Sainik Club\r\n                        - Banani - Kakali - Kuril Bishwa Road - Khilkhet - Airport - Abdullahpur - Kamarpara"
+    },
+    {
+        "Bus Name": "Bikash Paribahan",
+        "Route": "Route: Sign Board - Matuail - Rayerbag - Shonir Akhra - Jatrabari\r\n                        - Sayedabad - Gulistan - Chankhar Pul - Bakshi Bazar - Azimpur - Nilkhet - New Market - City\r\n                        College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Khamar Bari - Farmgate - Jahangir Gate -\r\n                        Mohakhali - Chairman Bari - Sainik Club - Banani - Kakali - Staff Road - MES - Shewra - Kuril\r\n                        Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building\r\n                        - Abdullahpur - Kamarpara - Dhour"
+    },
+    {
+        "Bus Name": "Bondhu Paribahan",
+        "Route": "Route: Gulistan - GPO - Paltan - Kakrail - Shantinagar - Malibagh\r\n                        Moor - Mouchak - Malibagh Railgate - Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda -\r\n                        Shahjadpur - Bashtola - Notun Bazar"
+    },
+    {
+        "Bus Name": "Borak",
+        "Route": "Route: Palashi - Meghna Ghat"
+    },
+    {
+        "Bus Name": "Boshumoti",
+        "Route": "Route: Gazipur Chourasta - Tongi - Airport - Khilkhet - Kalshi\r\n                        Pallabi - Mirpur 11 - Mirpur 10 - Mirpur 1 - Gabtoli"
+    },
+    {
+        "Bus Name": "Brihottor Mirpur",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Gabtoli - Amin Bazar - Savar -\r\n                        Nobinagar Chandra"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Madanpur - Kanchpur - Chittagong Road - Sign Board -\r\n                        Matuail - Rayerbag - Shonir Akhra - Jatrabari - Sayedabad - Gulistan - GPO - Paltan - Press Club\r\n                        - High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Khamar Bari -\r\n                        Asad Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur - Technical - Gabtoli - Amin\r\n                        Bazar - Hemayetpur - Savar"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Motijheel - Gulistan - GPO - Paltan - Press Club - High\r\n                        Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Jahangir Gate -\r\n                        Mohakhali - Chairman Bari - Kakali - Banani - Staff Road - MES - Shewra - Kuril Bishwa Road -\r\n                        Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur\r\n                        - Tongi"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Motijheel - Gulistan - GPO - Paltan - Press Club - High\r\n                        Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Khamar Bari - Asad\r\n                        Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur - Technical - Gabtoli - Amin Bazar -\r\n                        Hemayetpur - Baipayl - Zirani Bazar - Chandra"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Mohammadpur - Asad Gate - Khamar Bari - Farmgate -\r\n                        Jahangir Gate - Mohakhali - Wireless - Gulshan 1 - Badda Link Road - Uttar Badda - Shahjadpur -\r\n                        Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Kamalapur - Motijheel - Gulistan - GPO - Paltan - Press\r\n                        Club - High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Jahangir\r\n                        Gate - Mohakhali - Wireless - Gulshan 1 - Badda Link Road - Uttar Badda - Shahjadpur - Bashtola\r\n                        - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Vulta - Kanchan Bridge - Nila Market - 300 Feet -\r\n                        Bashundhara (300 Feet Gate) - Kuril Bishwa Road"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Motijheel - Gulistan - GPO - Paltan - Kakrail -\r\n                        Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate - Hazipara - Rampura Bazar - Rampura\r\n                        Bridge - Merul - Badda - Shahjadpur - Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna\r\n                        Future Park - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi -\r\n                        Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Mohammadpur - Shankar - Star Kabab - Dhanmondi 15 -\r\n                        Jigatola - City College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Motijheel"
+    },
+    {
+        "Bus Name": "BRTC",
+        "Route": "Route: Gabtoli - Mirpur 1 - Sony Cenema Hall - Mirpur 2 - Mirpur\r\n                        10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Khilkhet -\r\n                        Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi -\r\n                        Mill Gate - Board Bazar - Gazipur Bypass - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "BRTC Articulated",
+        "Route": "Route: Balughat - Cantonment - Bijoy Sarani - Farmgate - Bangla\r\n                        Motor - Shahbag - Paltan - Gulistan - Motijheel"
+    },
+    {
+        "Bus Name": "Cantonment Bus Service",
+        "Route": "Route: Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema Hall -\r\n                        Mirpur 1 - Ansar Camp - Technical - Gabtoli - Amin Bazar - Hemayetpur - Savar"
+    },
+    {
+        "Bus Name": "Cantonment Mini Service",
+        "Route": "Route: Mirpur 14 - Kachukhet - Sainik Club - Kakali - Banani -\r\n                        Mohakhali"
+    },
+    {
+        "Bus Name": "Champion",
+        "Route": "Route: Vashantek - Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema\r\n                        Hall - Mirpur 1 - Ansar Camp - Technical - Gabtoli"
+    },
+    {
+        "Bus Name": "City Link",
+        "Route": "Route: Chittagong Road - Sign Board - Matuail - Rayerbag - Shonir\r\n                        Akhra - Jatrabari - Sayedabad - Gulistan - GPO - Paltan - Press Club - High Court - Matsya\r\n                        Bhaban - Shahbag - Bata Signal - Science Lab - City College - Jigatola - Dhanmondi 15 - Star\r\n                        Kabab - Shankar - Mohammadpur - Bosila - Ghatar Char"
+    },
+    {
+        "Bus Name": "D Link",
+        "Route": "Route: Fulbaria - Chankhar Pul - Bakshi Bazar - Azimpur - Nilkhet\r\n                        - New Market - City College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad Gate - College Gate\r\n                        - Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical - Gabtoli - Amin Bazar -\r\n                        Hemayetpur - Savar - Dhamrai"
+    },
+    {
+        "Bus Name": "D One Transport",
+        "Route": "Route: Motijheel - Dainik Bangla Moor - Paltan - Press Club -\r\n                        Matsya Bhaban - High Court - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Asad Gate -\r\n                        College Gate - Shishu Mela - Shyamoli - Kallyanpur - Technical - Gabtoli - Amin Bazar -\r\n                        Nobinagar - Dhamrai - Kalampur"
+    },
+    {
+        "Bus Name": "Deepan",
+        "Route": "Route: Tajmahal Road - Shankar - Dhanmondi 15 - Jigatola - City\r\n                        College - Science Lab - Shahbag - Matsya Bhaban - Paltan - Gulistan - Motijheel - Arambagh"
+    },
+    {
+        "Bus Name": "Desh Bangla",
+        "Route": "Route: Postagola - Dholairpar - Jatrabari - Sayedabad - Mugdapara\r\n                        - Bashabo - Khilgaon - Malibagh - Rampura Bazar - Rampura Bridge - Merul - Badda - Uttar Badda -\r\n                        Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Chourasta - Kuril\r\n                        Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building\r\n                        - Abdullahpur - Kamarpara"
+    },
+    {
+        "Bus Name": "Dewan",
+        "Route": "Route: Azimpur - Eden College - Nilkhet - New Market - Science\r\n                        Lab - City College - Science Lab - Katabon - Shahbag - Bangla Motor - Kawran Bazar - Farmgate -\r\n                        Jahangir Gate - Mohakhali - Wireless - Gulshan 1 - Badda - Badda Link Road - Uttar Badda -\r\n                        Shahjadpur - Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa\r\n                        Road"
+    },
+    {
+        "Bus Name": "Dhaka Chaka",
+        "Route": "Route: Police Plaza - Gulshan 1 - Gulshan 2"
+    },
+    {
+        "Bus Name": "Dhaka Chaka",
+        "Route": "Route: Banani - Gulshan 2 - Notun Bazar "
+    },
+    {
+        "Bus Name": "Dhaka Metro Service",
+        "Route": "Route: Mirpur 1 - Kallyanpur - Shyamoli - Asad Gate - Shukrabad\r\n                        Kalabagan - Science Lab - New Market - Nilkhet - Azimpur"
+    },
+    {
+        "Bus Name": "Dhaka Paribahan",
+        "Route": "Route: Gulistan - Shahbag - Farmgate - Banani - Uttara - Gazipur\r\n                        - Shib Bari"
+    },
+    {
+        "Bus Name": "Dipon",
+        "Route": "Route: Tajmahal Road - Salimullah Road - Jakir Hossen Road -\r\n                        Shankar - Star Kabab - Dhanmondi 15 - Jigatola - City College - Science Lab - Bata Signal -\r\n                        Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - Baitul Mukarram - Gulistan -\r\n                        Motijheel - Arambagh"
+    },
+    {
+        "Bus Name": "Dishari",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Ansar Camp - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Khamar Bari - Farmgate - Kawran\r\n                        Bazar - Bangla Motor - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Golap\r\n                        Shah Mazar - Naya Bazar - Babubazar - Keraniganj"
+    },
+    {
+        "Bus Name": "Elite",
+        "Route": "Route: Agargaon - Taltola - Shewrapara - Kazipara - Mirpur 10\r\n                        Mirpur 11 - Purobi - Pallabi - Kalshi - Kuril Bishwa Road - Airport - Jashimuddin (Uttara) -\r\n                        Rajlakshmi House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "ETC",
+        "Route": "Route: Golap Shah Mazar - Shahbag - Bangla Motor Farmgate -\r\n                        Agargaon - Shewrapara - Kazipara - Mirpur 10 - Pallabi - Mirpur 12"
+    },
+    {
+        "Bus Name": "ETC Transport",
+        "Route": "Route: Golap Shah Mazar - GPO - Paltan - Press Club - High Court\r\n                        - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Khamar Bari - Agargaon -\r\n                        Taltola - Shewrapara - Kazipara - Mirpur 10 - Mirpur 11 - Purobi - Pallabi - Mirpur 12"
+    },
+    {
+        "Bus Name": "Everest Paribahan",
+        "Route": "Route: Rupnagar Abashik - Mirpur 2 - Mirpur 1 - Khamar Bari\r\n                        Farmgate - Gulistan - Keraniganj"
+    },
+    {
+        "Bus Name": "First Ten",
+        "Route": "Route: Vashantek - Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema\r\n                        Hall - Mirpur 1 - Ansar Camp - Technical - Gabtoli"
+    },
+    {
+        "Bus Name": "FTCL",
+        "Route": "Route: Mohammadpur - Shankar - Star Kabab - Jigatola - City\r\n                        College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan\r\n                        - GPO - Gulistan - Sayedabad - Janapath Moor - Jatrabari - Shonir Akhra - Rayerbag - Matuail -\r\n                        Sign Board - Chittagong Road"
+    },
+    {
+        "Bus Name": "FTCL",
+        "Route": "Route: Mohammadpur - Shankar - Dhanmondi 15 - Jigatola - City\r\n                        College - Science Lab - Shahbag - Matsya Bhaban - Paltan - Gulistan - Motijheel - Arambagh"
+    },
+    {
+        "Bus Name": "Gazipur Paribahan",
+        "Route": "Route: Motijheel - Paltan - Kakrail - Shantinagar - Malibagh Moor\r\n                        - Mouchak - Mogbazar - Nabisco - Mohakhali - Chairman Bari - Sainik Club - Kakali - Banani -\r\n                        Staff Road - MES - Shewra - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) -\r\n                        Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi - Station Road - Mill Gate - Board\r\n                        Bazar - Gazipur Chourasta - Shib Bari"
+    },
+    {
+        "Bus Name": "Grameen",
+        "Route": "Route: Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema Hall -\r\n                        Mirpur 1 - Ansar Camp - Technical - Gabtoli"
+    },
+    {
+        "Bus Name": "Grameen Suveccha",
+        "Route": "Route: Fulbaria - Chankhar Pul - Bakshi Bazar - Azimpur - Nilkhet\r\n                        - New Market - City College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad Gate - College Gate\r\n                        - Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical - Gabtoli - Amin Bazar -\r\n                        Hemayetpur - Savar - Baipayl - Zirani Bazar - Nandan Park - Chandra"
+    },
+    {
+        "Bus Name": "Green Anabil",
+        "Route": "Route: Chashara - Shibu Market - Jalkuri - Sign Board - Matuail -\r\n                        Rayerbag - Shonir Akhra - Jatrabari - Sayedabad - Mugdapara - Bashabo - Khilgaon - Malibagh\r\n                        Railgate - Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda - Uttar Badda - Shahjadpur\r\n                        - Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road -\r\n                        Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur\r\n                        - Tongi - Station Road - Mill Gate - Board Bazar - Gazipur Bypass - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "Green Dhaka",
+        "Route": "Route: Motijheel - Gulistan - GPO - Paltan - Kakrail -\r\n                        Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate - Hazipara - Rampura Bazar - Rampura\r\n                        Bridge - Merul - Badda - Uttar Badda - Shahjadpur - Bashtola - Notun Bazar - Nadda - Bashundhara\r\n                        - Jamuna Future Park - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) -\r\n                        Rajlakshmi - Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Gulshan Chaka",
+        "Route": "Route: Banani - Gulshan 2 - Notun Bazar"
+    },
+    {
+        "Bus Name": "Haji Transport",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 10 - Kazipara -\r\n                        Shewrapara - Agargaon - Bijoy Sarani - Farmgate - Kawran Bazar - Bangla Motor - Shahbag - Matsya\r\n                        Bhaban - High Court - Press Club - Paltan - GPO - Gulistan - Motijheel"
+    },
+    
+    {
+        "Bus Name": "Himachal",
+        "Route": "Route: Metro Hall(Narayanganj) - Chashara - Shibu Market - Jalkuri - Sign\r\n                        Board - Matuail - Rayerbag - Shonir Akhra - Jatrabari - Janapath Moor - Gulistan - GPO - Paltan\r\n                        - Press Club - High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate\r\n                        Bijoy Sarani - Agargaon - Taltola - Shewrapara - Kazipara - Mirpur 10 - Mirpur 11 - Purobi\r\n                        Pallabi - Mirpur 12"
+    },
+    {
+        "Bus Name": "Himalay",
+        "Route": "Route: Madanpur - Jatrabari - Bangladesh Bank - Mogbazar\r\n                        Mohakhali - Tongi"
+    },
+    {
+        "Bus Name": "Itihash",
+        "Route": "Route: Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema Hall Mirpur\r\n                        1 - Ansar Camp - Technical - Gabtoli - Amin Bazar - Hemayetpur - Savar - Nobinagar Baipayl -\r\n                        Zirani Bazar - Nandan Park - Chandra"
+    },
+    {
+        "Bus Name": "J M Super Paribahan",
+        "Route": "Route: Jatrabari - Sayedabad - Mugdapara - Bashabo - Khilgaon -\r\n                        Malibagh Railgate - Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda - Uttar Badda -\r\n                        Shahjadpur - Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa\r\n                        Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building -\r\n                        Abdullahpur - Tongi"
+    },
+    {
+        "Bus Name": "Jabale Noor Paribahan 1",
+        "Route": "Route: Agargaon - Taltola - Shewrapara - Kazipara - Mirpur 10\r\n                        Mirpur 11 - Purobi - Pallabi - Kalshi - Kuril Bishwa Road - Airport - Jashimuddin (Uttara) -\r\n                        Rajlakshmi House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Jabale Nur Paribahan 2",
+        "Route": "Route: Gabtoli - Mirpur 1 - Mirpur 10 - Kalshi - Kuril Flyover\r\n                        Notun Bazar"
+    },
+    {
+        "Bus Name": "Janjabil",
+        "Route": "Route: Gabtoli - Beribadh Tin Rastar Moor - Rayer Bazar - Sikder\r\n                        Medical College - Hazaribag - Nawabganj - Kamrangirchar - Showari Ghat - Mitford Ghat -\r\n                        Babubazar"
+    },
+    {
+        "Bus Name": "Kamal Plus Paribahan",
+        "Route": "Route: Chittagong Road - Sign Board - Matuail - Rayerbag - Shonir\r\n                        Akhra - Jatrabari - Sayedabad - Gulistan - Chankhar Pul - Bakshi Bazar - Azimpur - Nilkhet - New\r\n                        Market - Science Lab - City College - Jigatola - Dhanmondi 15 - Star Kabab - Shankar -\r\n                        Mohammadpur - Ghatar Char"
+    },
+    {
+        "Bus Name": "Kanak",
+        "Route": "Route: Mirpur 1 - Sony Cenema Hall - Mirpur 2 - Mirpur 10 Mirpur\r\n                        11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Khilkhet - Airport\r\n                        Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Kanak",
+        "Route": "Route: Mirpur 1 - Sony Cenema Hall - Mirpur 2 - Mirpur 10 -\r\n                        Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Khilkhet - Airport\r\n                        - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Khajababa",
+        "Route": "Route: Jatrabari - Sayedabad - Gulistan - GPO - Paltan - Press\r\n                        Club - High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Khamar\r\n                        Bari - Agargaon - Taltola - Shewrapara - Kazipara - Mirpur 10 - Mirpur 11 - Purobi - Pallabi -\r\n                        Mirpur 12"
+    },
+    {
+        "Bus Name": "Kironmala Paribahan",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Sony Cenema Hall - Rupnagar -\r\n                        Birulia - Ashulia - Zirabo - Narshinghapur - Sura Bari - Kashimpur - Jarun - Konabari"
+    },
+    {
+        "Bus Name": "Labbayek",
+        "Route": "Route: Savar - Hemayetpur - Amin Bazar - Gabtoli - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Khamar Bari - Farmgate - Kawran\r\n                        Bazar - Bangla Motor - Mogbazar - Mouchak - Malibagh Moor - Rajarbag - Khilgaon Flyover -\r\n                        Bashabo - Mugdapara - Manik Nagar - Golapbag Chourasta - Sayedabad - Janapath Moor - Jatrabari -\r\n                        Kazla - Shonir Akhra - Rayerbag - Matuail - Sign Board"
+    },
+    {
+        "Bus Name": "Lal Sabuj (AC)",
+        "Route": "Route: Nandan Park - Zirani Bazar - Baipayl - Nobinagar - Savar -\r\n                        Hemayetpur - Amin Bazar - Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela - College\r\n                        Gate - Asad Gate - Khamar Bari - Farmgate - Kawran Bazar - Bangla Motor - Shahbag - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Motijheel"
+    },
+    {
+        "Bus Name": "Lams Paribahan",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 1 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Bijoy Sarani - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - Dainik Bangla Moor -\r\n                        Motijheel"
+    },
+    {
+        "Bus Name": "Malancha",
+        "Route": "Route: Mohammadpur - Shankar - Star Kabab - Dhanmondi 15 -\r\n                        Jigatola - City College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Dayaganj - Dhupkhola"
+    },
+    {
+        "Bus Name": "Manjil Express",
+        "Route": "Route: Chittagong Road - Sign Board - Matuail - Rayerbag - Shonir\r\n                        Akhra - Jatrabari - Sayedabad - Gulistan - GPO - Paltan - Kakrail - Malibagh Moor - Mouchak -\r\n                        Mogbazar - Satrasta - Nabisco - Mohakhali - Chairman Bari - Banani - Kakali - Staff Road - MES -\r\n                        Shewra - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur -\r\n                        House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Meghla Transport",
+        "Route": "Route: Kalabagan - Science Lab - Katabon - Bata Signal - Shahbag\r\n                        - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Gulistan - Sayedabad - Jatrabari -\r\n                        Shonir Akhra - Sign Board - Kanchpur - Vulta"
+    },
+    {
+        "Bus Name": "Meshkat",
+        "Route": "Route: Mohammadpur - Asad Gate - Khamar Bari - Farmgate - Bangla\r\n                        Motor - Shahbag - Matsya Bhaban - Paltan - Dainik Bangla Moor - Motijheel - Ittefaq Moor\r\n                        Sayedabad - Jatrabari - Shanir Akhra - Rayerbag - Matuail - Sign Board - Chittagong Road"
+    },
+    {
+        "Bus Name": "Midline",
+        "Route": "Route: Mohammadpur - Shankar - Star Kabab - Dhanmondi 15 -\r\n                        Jigatola - City College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban - High Court -\r\n                        Press Club - Paltan - Gulistan - Motijheel - Arambagh - Kamalapur - Bashabo - Khilgaon"
+    },
+    {
+        "Bus Name": "Mirpur Metro Services",
+        "Route": "Route: Azimpur - Nilkhet - New Market - Science Lab - City\r\n                        College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad Gate - College Gate - Shishu Mela -\r\n                        Shyamoli - Kallyanpur - Darussalam - Technical - Bangla College - Tolarbag - Ansar Camp - Mirpur\r\n                        1"
+    },
+    {
+        "Bus Name": "Mirpur link",
+        "Route": "Route: ECB Square - Purobi - Mirpur 11 - Mirpur 10 - Kazipara\r\n                        Shewrapara - Agargaon - Khamar Bari - Dhanmondi 27 - Dhanmondi 32 - City College - New Market\r\n                        Nilkhet - Azimpur"
+    },
+    {
+        "Bus Name": "Mirpur Mission",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Khamar Bari - Farmgate - Press\r\n                        Club - Motijheel"
+    },
+    {
+        "Bus Name": "Mirpur Transport Service",
+        "Route": "Route: Gulistan - Golap Shah Mazar - GPO - Paltan - Press Club -\r\n                        High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Khamar Bari -\r\n                        Agargaon - Taltola - Shewrapara - Kazipara - Mirpur 10 - Mirpur 11 - Purobi - Pallabi - Mirpur\r\n                        12"
+    },
+    {
+        "Bus Name": "Mirpur United Service",
+        "Route": "Route: Sadarghat - Ray Saheb Bazar - Naya Bazar - Golap Shah\r\n                        Mazar - GPO - Paltan - Press Club - High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran\r\n                        Bazar - Farmgate - Khamar Bari - Agargaon - Taltola - Shewrapara - Kazipara - Mirpur 10 - Mirpur\r\n                        11 - Purobi - Pallabi - Mirpur 12"
+    },
+    {
+        "Bus Name": "MM Lovely",
+        "Route": "Route: Savar - Hemayetpur - Amin Bazar - Gabtoli - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Khamar Bari - Farmgate - Kawran\r\n                        Bazar - Bangla Motor - Mogbazar - Mouchak - Malibagh Moor - Rajarbag - Khilgaon Flyover -\r\n                        Bashabo - Mugdapara - Manik Nagar - Golapbag Chourasta - Sayedabad - Janapath Moor - Jatrabari -\r\n                        Kazla - Shonir Akhra - Rayerbag - Matuail - Sign Board"
+    },
+    {
+        "Bus Name": "Modhumoti",
+        "Route": "Route: Chiriyakhana - Sony Cenema Hall - Mirpur 2 - Mirpur 1 -\r\n                        Ansar Camp - Technical - Kallyanpur - Shyamoli - Shishu Mela - Agargaon - Bijoy Sarani -\r\n                        Jahangir Gate - Mohakhali - Wireless - Gulshan 1 - Badda Link Road - Merul - Rampura Bridge -\r\n                        Banasree - Demra Staff Quarter"
+    },
+    {
+        "Bus Name": "Mohona",
+        "Route": "Route: Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema Hall -\r\n                        Mirpur 1 - Mazar Road - Konabari - Rupnagar - Beribadh - Birulia - Ashulia - Zirabo - Fantasy\r\n                        Kingdom"
+    },
+    {
+        "Bus Name": "Moitri",
+        "Route": "Route: Mohammadpur - Shankar - Star Kabab - Dhanmondi 15 -\r\n                        Jigatola - City College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Motijheel - Arambagh"
+    },
+    {
+        "Bus Name": "Moumita",
+        "Route": "Route: Chashara - Shibu Market - Jalkuri - Sign Board - Matuail -\r\n                        Rayerbag - Shonir Akhra - Jatrabari - Sayedabad - Gulistan - Chankhar Pul - Bakshi Bazar -\r\n                        Azimpur - Nilkhet - New Market - City College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad\r\n                        Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical - Gabtoli -\r\n                        Amin Bazar - Hemayetpur - Savar - Baipayl - Zirani Bazar - Nandan Park - Chandra"
+    },
+    {
+        "Bus Name": "MTCL 2",
+        "Route": "Route: Mohammadpur - Asad Gate - Dhanmondi 27 - Dhanmondi 32 -\r\n                        Shukrabad - Kalabagan - City College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban -\r\n                        High Court - Press Club - Paltan - GPO - Gulistan - Motijheel - Arambagh"
+    },
+    {
+        "Bus Name": "Nabakali",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Ansar Camp - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Dhanmondi 27 - Shukrabad -\r\n                        Dhanmondi 32 - Kalabagan - Science Lab - Katabon - Shahbag - High Court - Fulbaria - Naya Bazar\r\n                        - Babubazar - Keraniganj"
+    },
+    {
+        "Bus Name": "New Vision",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Ansar Camp - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Khamar Bari - Farmgate - Kawran\r\n                        Bazar - Bangla Motor - Shahbag - High Court - Press Club - Paltan - Dainik Bangla Moor -\r\n                        Motijheel"
+    },
+    {
+        "Bus Name": "Nilachol",
+        "Route": "Route: Chittagong Road - Sign Board - Matuail - Rayerbag - Shonir\r\n                        Akhra - Jatrabari - Sayedabad - Gulistan - Chankhar Pul - Bakshi Bazar - Azimpur - Nilkhet - New\r\n                        Market - City College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad Gate - College Gate -\r\n                        Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical - Gabtoli - Amin Bazar - Hemayetpur\r\n                        - Savar - Nobinagar - Manikganj - Paturia"
+    },
+    {
+        "Bus Name": "Nishrgo",
+        "Route": "Route: Mirpur 14 Bus Stand - Mirpur 10 - Kazipara - Shewrapara -\r\n                        Taltola - Agargaon - Asad Gate - Shyamoli - Mohammadpur - Shankar - Dhanmondi 15 - Jigatola -\r\n                        Science Lab - Dhaka College - New Market - Nilkhet - Eden College - Azimpur"
+    },
+    {
+        "Bus Name": "No. 13 Bus",
+        "Route": "Route: Mohammadpur - Shankar - Star Kabab - Dhanmondi 15 -\r\n                        Jigatola - City College - Science Lab - New Market - Nilkhet - Azimpur"
+    },
+    {
+        "Bus Name": "No. 4 Alike",
+        "Route": "Route: Balughat - Signal - CMH - Garrison (Cantonment) - Adamjee\r\n                        College - Workshop - Jahangir Gate - Bijoy Sarani - Farmgate - Bangla Motor - Shahbag - Paltan -\r\n                        Gulistan - Motijheel"
+    },
+    {
+        "Bus Name": "No. 6 Bus",
+        "Route": "Route: Kamalapur - Motijheel - Gulistan - GPO - Paltan - Kakrail\r\n                        - Shantinagar - Malibagh Moor - Mouchak - Mogbazar - Kawran Bazar - Farmgate - Jahangir Gate -\r\n                        Bijoy Sarani - Mohakhali - Gulshan 1 - Gulshan 2 - Notun Bazar"
+    },
+    {
+        "Bus Name": "No. 6 Motijheel Banani Transport",
+        "Route": "Route: Kamalapur - Motijheel - Gulistan - GPO - Paltan - Kakrail\r\n                        - Shantinagar - Malibagh Moor - Mouchak - Mogbazar - Kawran Bazar - Farmgate - Jahangir Gate -\r\n                        Bijoy Sarani - Mohakhali - Gulshan 1 - Gulshan 2 - Notun Bazar"
+    },
+    {
+        "Bus Name": "No. 7 Bus",
+        "Route": "Route: Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela\r\n                        - College Gate - Asad Gate - Dhanmondi 27 - Dhanmondi 32 - Kalabagan - Science Lab - Katabon -\r\n                        Shahbag - High Court - Press Club - Paltan - GPO - Golap Shah Mazar - Gulistan - Naya Bazar -\r\n                        Ray Saheb Bazar - Sadarghat"
+    },
+    {
+        "Bus Name": "No. 8 Bus",
+        "Route": "Route: Jatrabari - Janapath Moor - Sayedabad - Motijheel - Dainik\r\n                        Bangla Moor - Paltan - Press Club - Matsya Bhaban - High Court - Shahbag - Bangla Motor - Kawran\r\n                        Bazar - Farmgate - Khamar Bari - Asad Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur\r\n                        - Technical - Gabtoli"
+    },
+    {
+        "Bus Name": "No. 9 Bus",
+        "Route": "Route: College Gate - Shishu Mela - Shyamoli - Kallyanpur -\r\n                        Darussalam - Technical - Bangla College - Tolarbag - Ansar Camp - Mirpur 1 - Sony Cenema Hall -\r\n                        Mirpur 2 - Proshika Moor - Pallabi - Mirpur 12"
+    },
+    {
+        "Bus Name": "Nur E Makka",
+        "Route": "Route: Chiriyakhana - Sony Cenema Hall - Mirpur 2 - Mirpur 10 -\r\n                        Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Jamuna Future Park\r\n                        - Bashundhara - Nadda - Notun Bazar - Bashtola - Shahjadpur - Uttar Badda - Badda - Madhya Badda\r\n                        - Merul - Rampura Bridge - Rampura Bazar - Hazipara - Malibagh Railgate"
+    },
+    {
+        "Bus Name": "Omama International",
+        "Route": "Route: Motijheel - Dainik Bangla Moor - Paltan - Press Club -\r\n                        Matsya Bhaban - High Court - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Jahangir Gate -\r\n                        Mohakhali - Chairman Bari - Sainik Club - Banani - Kakali - Staff Road - MES - Shewra - Kuril\r\n                        Bishwa Road - Khilkhet - Airport"
+    },
+    {
+        "Bus Name": "One Transport",
+        "Route": "Route: Nandan Park - Zirani Bazar - Baipayl - Nobinagar - Savar -\r\n                        Hemayetpur - Amin Bazar - Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela - College\r\n                        Gate - Asad Gate - Khamar Bari - Farmgate - Kawran Bazar - Bangla Motor - Shahbag - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Motijheel"
+    },
+    {
+        "Bus Name": "Pallabi Local Service",
+        "Route": "Route: Asad Gate - College Gate - Shishu Mela - Shyamoli -\r\n                        Kallyanpur - Technical - Mirpur 1 - Sony Cenema Hall - Mirpur 2 - Chalantika Moor - Mirpur 6 -\r\n                        Mirpur 11 - Mirpur 12"
+    },
+    {
+        "Bus Name": "Pallabi Super",
+        "Route": "Route: Gabtoli - Technical - Ansar Camp - Mirpur 1 - Sony Cenema\r\n                        Hall - Mirpur 2 - Mirpur 10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril\r\n                        Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building\r\n                        Abdullahpur - Kamarpara"
+    },
+    {
+        "Bus Name": "Paristhan",
+        "Route": "Route: Bosila - Mohammadpur - Asad Gate - College Gate - Shyamoli\r\n                        - Kallyanpur - Darussalam - Technical - Bangla College - Tolarbag - Ansar Camp - Mirpur 1 -\r\n                        Mirpur 2 - Mirpur 10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Kuril\r\n                        Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - House Building -\r\n                        Abdullahpur"
+    },
+    {
+        "Bus Name": "Power Paribahan",
+        "Route": "Route: Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema Hall -\r\n                        Mirpur 1 - Mazar Road - Konabari - Rupnagar - Beribadh - Birulia - Ashulia - Zirabo -\r\n                        Narshinghapur - Sura Bari - Kashimpur - Jarun - Konabari"
+    },
+    {
+        "Bus Name": "Prattay",
+        "Route": "Route: Gabtoli - Beribadh Tin Rastar Moor - Rayer Bazar - Sikder\r\n                        Medical College - Hazaribag - Nawabganj - Kamrangirchar - Showari Ghat - Mitford Ghat -\r\n                        Babubazar"
+    },
+    {
+        "Bus Name": "Prochesta",
+        "Route": "Route: Maowa - Keraniganj - Babubazar - Naya Bazar - Golap Shah\r\n                        Mazar - GPO - Paltan - Kakrail - Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate -\r\n                        Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda - Uttar Badda - Shahjadpur - Bashtola\r\n                        - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road - Khilkhet -\r\n                        Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Projapati",
+        "Route": "Route: Bosila - Mohammadpur - Asad Gate - College Gate - Shyamoli\r\n                        - Kallyanpur - Darussalam - Technical - Bangla College - Ansar Camp - Mirpur 1 - Mirpur 2 Mirpur\r\n                        10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Kuril Bishwa Road Khilkhet\r\n                        - Airport - Jashimuddin (Uttara) - Rajlakshmi - House Building - Abdullahpur - Kamarpara"
+    },
+    {
+        "Bus Name": "Provati Banasree",
+        "Route": "Route: Fulbaria - Golap Shah Mazar - GPO - Paltan - Kakrail -\r\n                        Shantinagar - Malibagh Moor - Mogbazar - Satrasta - Nabisco - Mohakhali - Chairman Bari - Banani\r\n                        - Kakali - Staff Road - MES - Shewra - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin\r\n                        (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi - Station Road - Mill\r\n                        Gate - Board Bazar - Gazipur Chourasta - Joydebpur - Sreepur - Baromi"
+    },
+    {
+        "Bus Name": "Purbachol Logistics & Transport",
+        "Route": "Route: Vashantek - Mirpur 14 - Mirpur 10 - Mirpur 2 - Sony Cenema\r\n                        Hall - Mirpur 1 - Ansar Camp - Technical - Gabtoli - Amin Bazar - Hemayetpur - Savar - Baipayl -\r\n                        Zirani Bazar - Nandan Park - Chandra"
+    },
+    {
+        "Bus Name": "Raida",
+        "Route": "Route: Postagola - Dholairpar - Jatrabari - Janapath Moor -\r\n                        Sayedabad - Mugdapara - Bashabo - Khilgaon - Malibagh Railgate - Rampura Bazar - Rampura Bridge\r\n                        - Merul - Badda - Uttar Badda - Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future\r\n                        Park - Kuril Chourasta - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) -\r\n                        Rajlakshmi - Azampur - House Building - Diabari"
+    },
+    {
+        "Bus Name": "Raja City",
+        "Route": "Route: Postagola - Jurain - Dayaganj - Gulistan - GPO - Paltan -\r\n                        Press Club - High Court - Shahbag - Bata Signal - Science Lab - City College - Jigatola -\r\n                        Dhanmondi 15 - Star Kabab - Shankar - Mohammadpur - Bosila - Ghatar Char"
+    },
+    {
+        "Bus Name": "Rajanigandha",
+        "Route": "Route: Chittagong Road - Sign Board - Matuail - Rayerbag - Shonir\r\n                        Akhra - Jatrabari - Sayedabad - Gulistan - GPO - Paltan - Press Club - High Court - Shahbag -\r\n                        Bata Signal - Science Lab - Jigatola - Dhanmondi 15 - Star Kabab - Shankar - Mohammadpur"
+    },
+    {
+        "Bus Name": "Rajdhani Super",
+        "Route": "Route: Hemayetpur - Gabtoli - Technical - Ansar Camp - Mirpur 1 -\r\n                        Sony Cenema Hall - Mirpur 2 - Mirpur 10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES -\r\n                        Shewra - Kuril Bishwa Road - Jamuna Future Park - Bashundhara - Nadda - Notun Bazar - Bashtola -\r\n                        Shahjadpur - Uttar Badda - Badda - Madhya Badda - Merul - Rampura Bridge - Banasree - Demra\r\n                        Staff Quarter"
+    },
+    {
+        "Bus Name": "Ramjan",
+        "Route": "Route: Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela\r\n                        - College Gate - Asad Gate - Mohammadpur - Shankar - Star Kabab - Dhanmondi 15 - Jigatola - City\r\n                        College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban - Kakrail - Shantinagar - Malibagh\r\n                        Moor - Mouchak - Malibagh Railgate - Hazipara - Rampura Bazar - Rampura Bridge - Banasree -\r\n                        Demra Staff Quarter"
+    },
+    {
+        "Bus Name": "Robrob",
+        "Route": "Route: Gabtoli - Technical -Ansar Camp - Mirpur 1 - Mirpur 2\r\n                        Mirpur 10 - Purobi - Kalshi - ECB Square - MES - Banani - Kakali - Gulshan 2 - Gulshan 1 - Badda\r\n                        Link Road - Merul - Rampura Bridge - Banasree"
+    },
+    {
+        "Bus Name": "Rois",
+        "Route": "Route: Mirpur Sony Cinema Hall - Mirpur 2 - Mirpur 10 - Kazipara\r\n                        - Shewrapara - Agargaon - Mohakhali - Gulshan 1 - Badda - Rampura Bridge - Banasree"
+    },
+    {
+        "Bus Name": "Rongdhonu Express",
+        "Route": "Route: Adabor - Mohammadpur - Shia Mosque - Shyamoli - College\r\n                        Gate - Asad Gate - Kalabagan - Science Lab - Katabon - Bata Signal - Shahbag - Kakrail -\r\n                        Fakirapul - Motijheel - Dayaganj - Postagola"
+    },
+    {
+        "Bus Name": "Runway Express",
+        "Route": "Route: Keraniganj - Kadamtali - Babubazar - Naya Bazar - Golap\r\n                        Shah Mazar - GPO - Paltan - Press Club - High Court - Matsya Bhaban - Shahbag - Bangla Motor -\r\n                        Kawran Bazar - Farmgate - Agargaon - Shewrapara - Kazipara - Mirpur 10 - Mirpur 11 - Mirpur 12 -\r\n                        ECB Square"
+    },
+    {
+        "Bus Name": "Rupa Paribahan",
+        "Route": "Route: Gabtoli - Technical - Ansar Camp - Mirpur 1 - Sony Cenema\r\n                        Hall - Mirpur 2 - Mirpur 10 - Mirpur 14 - Vashantek"
+    },
+    {
+        "Bus Name": "Rupkotha",
+        "Route": "Route: Gabtoli - Mirpur 1 - Sony Cenema Hall - Mirpur 2 - Mirpur\r\n                        10 - Mirpur 11 - Purobi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Khilkhet -\r\n                        Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Safety Druti",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 10 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Khamar Bari - Dhanmondi 27 - Dhanmondi 32 -\r\n                        Kalabagan - City College - New Market - Nilkhet - Azimpur"
+    },
+    {
+        "Bus Name": "Sakalpa-transport",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Sony Cenema Hall - Mirpur 2 -\r\n                        Mirpur 10 - Kazipara - Shewrapara - Agargaon - Bijoy Sarani - Farmgate - Bangla Motor - Mogbazar\r\n                        - Malibagh Moor - Kamalapur"
+    },
+    {
+        "Bus Name": "Salsabil",
+        "Route": "Route: Postagola - Dholairpar - Jatrabari - Sayedabad - Mugdapara\r\n                        - Bashabo - Khilgaon - Malibagh Railgate - Rampura Bazar - Rampura Bridge - Merul - Badda -\r\n                        Uttar Badda - Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril\r\n                        Chourasta - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur\r\n                        - House Building - Abdullahpur - Tongi - Station Road - Mill Gate - Board Bazar - Gazipur Bypass\r\n                        - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "Savar Paribahan",
+        "Route": "Route: Sadarghat - Golap Shah Mazar - GPO - Paltan - Press Club -\r\n                        High Court - Matsya Bhaban - Shahbag - Science Lab - Kalabagan - Dhanmondi 32 - Dhanmondi 27 -\r\n                        Asad Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical -\r\n                        Gabtoli - Amin Bazar - Hemayetpur - Savar - Baipayl - Zirani Bazar - Nandan Park"
+    },
+    {
+        "Bus Name": "Shadhin",
+        "Route": "Route: Bosila - Mohammadpur - Asad Gate - Khamar Bari - Farmgate\r\n                        - Kawran Bazar - Bangla Motor - Mogbazar - Mouchak - Malibagh Railgate - Hazipara - Rampura\r\n                        Bazar - Rampura Bridge - Banasree - Demra Staff Quarter"
+    },
+    {
+        "Bus Name": "Shadhin Express",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 10 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Khamar Bari - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Shahbag - High Court - Press Club - Paltan - GPO - Golap Shah Mazar - Naya Bazar -\r\n                        Babubazar - Keraniganj - Kadamtali - Rajendrapur - Maowa"
+    },
+    {
+        "Bus Name": "Shahria Enterprise",
+        "Route": "Route: Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela\r\n                        - College Gate - Asad Gate - Dhanmondi 27 - Dhanmondi 32 - Shukrabad - Kalabagan - City College\r\n                        - Science Lab - Katabon - Shahbag - Matsya Bhaban - Kakrail - Fakirapul - Arambagh - Motijheel -\r\n                        Ittefaq Moor - Tikatuli - Dayaganj - Gandaria - Jurain - Postagola"
+    },
+    {
+        "Bus Name": "Shatabdi",
+        "Route": "Route: Motijheel - Paltan - Kakrail - Malibagh Moor - Mouchak -\r\n                        Mogbazar - Satrasta - Nabisco - Mohakhali - Chairman Bari - Banani - Kakali - Shewra - Kuril\r\n                        Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building\r\n                        - Abdullahpur - Kamarpara"
+    },
+    {
+        "Bus Name": "Shikhar Paribahan",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 10 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Bijoy Sarani - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Gulistan - Janapath\r\n                        Moor - Jatrabari"
+    },
+    {
+        "Bus Name": "Shikor Paribahan",
+        "Route": "Route: Jatrabari - Sayedabad - Gulistan - GPO - Paltan - Press\r\n                        Club - High Court - Matsya Bhaban - Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Bijoy\r\n                        Sarani - Agargaon - IDB - Taltola - Shewrapara - Kazipara - Mirpur 10 - Mirpur 11 - Pallabi -\r\n                        Purobi - Mirpur 12"
+    },
+    {
+        "Bus Name": "Shuveccha",
+        "Route": "Route: Chittagong Road - Sign Board - Matuail - Rayerbag - Shonir\r\n                        Akhra - Jatrabari - Sayedabad - Gulistan - Chankhar Pul - Bakshi Bazar - Dhakeshwari - Azimpur -\r\n                        Nilkhet - New Market - City College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad Gate -\r\n                        College Gate - Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical - Gabtoli - Amin\r\n                        Bazar - Hemayetpur - Savar - Nobinagar - Baipayl - Zirani Bazar - Nandan Park - Chandra"
+    },
+    {
+        "Bus Name": "Shuvojatra",
+        "Route": "Route: Fulbaria - Golap Shah Mazar - GPO - Paltan - Press Club -\r\n                        High Court - Matsya Bhaban - Shahbag - Bata Signal - Science Lab - Kalabagan - Dhanmondi 32 -\r\n                        Dhanmondi 27 - Asad Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur - Darussalam -\r\n                        Technical - Gabtoli - Amin Bazar - Hemayetpur - Manikganj"
+    },
+    {
+        "Bus Name": "Siyam Transport",
+        "Route": "Route: Banasree - Rampura Bridge - Merul - Badda - Shahjadpur -\r\n                        Bashtola - Notun Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road - Khilkhet\r\n                        - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur -\r\n                        Kamarpara - Dhour - Beribadh - Ashulia - Zirabo - Fantasy Kingdom - Jamgora - Shimultola -\r\n                        Baipayl - Palli Bidyut - Savar Cantonment - Nobinagar"
+    },
+    {
+        "Bus Name": "Skyline",
+        "Route": "Route: Sadarghat - Ray Saheb Bazar - Naya Bazar - Golap Shah\r\n                        Mazar - GPO - Paltan - Kakrail - Shantinagar - Malibagh Moor - Mouchak - Nabisco - Mohakhali -\r\n                        Chairman Bari - Sainik Club - Banani - Kakali - Staff Road - MES - Shewra - Kuril Bishwa Road -\r\n                        Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur\r\n                        - Tongi - Station Road - Mill Gate - Board Bazar - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "Somota Paribahan",
+        "Route": "Route: Chittagong Road - Sign Board - Matuail - Rayerbag - Shonir\r\n                        Akhra - Jatrabari - Sayedabad - Gulistan - Chankhar Pul - Bakshi Bazar - Dhakeshwari - Azimpur -\r\n                        Nilkhet - New Market - City College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad Gate -\r\n                        College Gate - Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical - Ansar Camp -\r\n                        Mirpur 1 - Rainkhola - Chiriyakhana"
+    },
+    {
+        "Bus Name": "Somoy",
+        "Route": "Route: Sign Board - Matuail - Rayerbag - Shonir Akhra - Jatrabari\r\n                        - Sayedabad Janapath Moor - Gulistan - GPO - Paltan - Press Club - High Court - Matsya Bhaban -\r\n                        Shahbag - Bangla Motor - Kawran Bazar - Farmgate - Bijoy Sarani - Agargaon - IDB - Taltola -\r\n                        Shewrapara - Kazipara - Mirpur 10 - Mirpur 11 - Pallabi - Purobi - Mirpur 12"
+    },
+    {
+        "Bus Name": "Somoy Niyantran",
+        "Route": "Route: Mirpur 12 - Pallabi - Purobi - Mirpur 11 - Mirpur 10 -\r\n                        Kazipara - Shewrapara - Taltola - Agargaon - Bijoy Sarani - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Golap Shah Mazar -\r\n                        Naya Bazar - Babubazar - Keraniganj"
+    },
+    {
+        "Bus Name": "Super bus",
+        "Route": "Route: Gulistan - Shahbag - Farmgate - Shyamoli - Gabtoli - Savar\r\n                        - Nobinagar"
+    },
+    {
+        "Bus Name": "Supravat",
+        "Route": "Route: Victoria Park - Sadarghat - Ray Saheb Bazar - Golap Shah\r\n                        Mazar - GPO - Paltan - Kakrail - Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate -\r\n                        Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda - Shahjadpur - Bashtola - Notun Bazar\r\n                        - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road - Khilkhet - Airport -\r\n                        Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi"
+    },
+    {
+        "Bus Name": "Swajan Paribahan",
+        "Route": "Route: Savar - Hemayetpur - Amin Bazar - Gabtoli - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Khamar Bari - Farmgate - Kawran\r\n                        Bazar - Bangla Motor - Shahbag - High Court - Press Club - Paltan - GPO - Golap Shah Mazar -\r\n                        Naya Bazar - Ray Saheb Bazar - Sadarghat"
+    },
+    {
+        "Bus Name": "Talukdar",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Ansar Camp - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Khamar Bari - Farmgate - Kawran\r\n                        Bazar - Bangla Motor - Mogbazar - Mouchak - Malibagh Moor - Rajarbag - Khilgaon Flyover -\r\n                        Bashabo - Mugdapara - Manik Nagar - Golapbag Chourasta - Sayedabad - Janapath Moor - Jatrabari -\r\n                        Kazla - Shonir Akhra - Rayerbag - Matuail - Sign Board - Sanarpar - Chittagong Road"
+    },
+    {
+        "Bus Name": "Tanjil Paribahan",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Ansar Camp - Technical -\r\n                        Kallyanpur - Shyamoli - Shishu Mela - College Gate - Asad Gate - Khamar Bari - Farmgate - Kawran\r\n                        Bazar - Bangla Motor - Shahbag - High Court - Press Club - Paltan - GPO - Golap Shah Mazar -\r\n                        Naya Bazar - Ray Saheb Bazar - Sadarghat"
+    },
+    {
+        "Bus Name": "Taranga plus",
+        "Route": "Route: Mohammadpur Bus Stand - Shankar - Star Kabab - Dhanmondi\r\n                        15 - Jigatola - City College - Science Lab - Bata Signal - Shahbag - Matsya Bhaban - Kakrail -\r\n                        Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate - Hazipara - Rampura Bazar - Rampura\r\n                        Bridge - Banasree - South Banasree"
+    },
+    {
+        "Bus Name": "Tetulia",
+        "Route": "Route: Shia Mosque - Japan Garden City - Ring road - Adabor\r\n                        Shyamoli - Shishu Mela - Agargaon - Taltola - Shewrapara - Kazipara - Mirpur 10 - Mirpur 11\r\n                        Purobi - Pallabi - Kalshi - ECB Square - MES - Shewra - Kuril Bishwa Road - Airport -\r\n                        Jashimuddin (Uttara) - Rajlakshmi - House Building - Abdullahpur"
+    },
+    {
+        "Bus Name": "Thikana",
+        "Route": "Route: Sign Board - Matuail - Rayerbag - Shonir Akhra - Jatrabari\r\n                        - Sayedabad - Gulistan - Chankhar Pul - Bakshi Bazar - Dhakeshwari - Azimpur - Nilkhet - New\r\n                        Market - City College - Kalabagan - Dhanmondi 32 - Dhanmondi 27 - Asad Gate - College Gate -\r\n                        Shishu Mela - Shyamoli - Kallyanpur - Darussalam - Technical - Gabtoli - Amin Bazar - Hemayetpur\r\n                        - Savar - Baipayl - Zirani Bazar - Nandan Park - Chandra"
+    },
+    {
+        "Bus Name": "Thikana Express",
+        "Route": "Route: Shonbari Sreenagar - Nimtola - Kuchimura - Rajendrapur -\r\n                        Hasnabad - Postagola - Jurain - Dholairpar - Jatrabari - Sayedabad - Gulistan - Chankhar Pul -\r\n                        Bakshi Bazar - Azimpur - Nilkhet - New Market - City College - Kalabagan - Dhanmondi 32 -\r\n                        Dhanmondi 27 - Asad Gate - College Gate - Shishu Mela - Shyamoli - Kallyanpur - Darussalam -\r\n                        Technical - Gabtoli - Amin Bazar - Hemayetpur - Savar - Baipayl - Zirani Bazar - Nandan Park -\r\n                        Chandra"
+    },
+    {
+        "Bus Name": "Titas",
+        "Route": "Route: Chiriyakhana - Mirpur 1 - Gabtoli - Savar - Nobinagar\r\n                        Chandra"
+    },
+    {
+        "Bus Name": "Transilva",
+        "Route": "Route: Mirpur 1 - Ansar Camp - Technical - Kallyanpur - Shyamoli\r\n                        - Shishu Mela - College Gate - Asad Gate - Dhanmondi 27 - Dhanmondi 32 - Kalabagan - Science Lab\r\n                        - Bata Signal - Shahbag - Matsya Bhaban - High Court - Press Club - Paltan - GPO - Gulistan -\r\n                        Motijheel - Sayedabad - Janapath Moor - Jatrabari"
+    },
+    {
+        "Bus Name": "Trust Transport Services",
+        "Route": "Route: Mirpur 10 - Mirpur 13 - Mirpur 14 - Kachukhet - Sainik\r\n                        Club - Banani"
+    },
+    {
+        "Bus Name": "Trust Transport Services",
+        "Route": "Route: Mirpur 10 - Mirpur 13 - Mirpur 14 - Kachukhet - Workshop -\r\n                        Saudi Colony - Jahangir Gate - Farmgate - Kawran Bazar - Bangla Motor - Shahbag"
+    },
+    {
+        "Bus Name": "Trust Transport Services",
+        "Route": "Route: Mirpur DOHS - Kalshi - ECB Square - Garrison (Cantonment)\r\n                        - Adamjee School - Workshop - Saudi Colony - Jahangir Gate - Farmgate - Kawran Bazar - Bangla\r\n                        Motor - Shahbag - High Court - Press Club - Paltan - Dainik Bangla Moor - Motijheel"
+    },
+    {
+        "Bus Name": "Trust Transport Services (AC)",
+        "Route": "Route: Mirpur DOHS - Kalshi - ECB Square - Garrison (Cantonment)\r\n                        - Adamjee School - Workshop - Saudi Colony - Jahangir Gate - Farmgate - Kawran Bazar "
+    },
+    {
+        "Bus Name": "Turag",
+        "Route": "Route: Jatrabari - Sayedabad - Mugdapara - Bashabo - Khilgaon -\r\n                        Malibagh Moor - Rampura Bazar - Rampura Bridge - Merul - Badda - Uttar Badda - Bashtola - Notun\r\n                        Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Chourasta - Kuril Bishwa Road -\r\n                        Khilkhet - Airport - Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Abdullahpur\r\n                        - Tongi"
+    },
+    {
+        "Bus Name": "Victor Classic",
+        "Route": "Route: Sadarghat - Ray Saheb Bazar - Naya Bazar - Golap Shah\r\n                        Mazar - GPO - Paltan - Kakrail - Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate -\r\n                        Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda - Shahjadpur - Bashtola - Notun Bazar\r\n                        - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road - Khilkhet - Airport -\r\n                        Jashimuddin (Uttara) - Rajlakshmi - Azampur - House Building - Diabari"
+    },
+    {
+        "Bus Name": "Victor Paribahan",
+        "Route": "Route: Sadarghat - Ray Saheb Bazar - Naya Bazar - Golap Shah\r\n                        Mazar - GPO - Paltan - Kakrail - Shantinagar - Malibagh Moor - Mouchak - Malibagh Railgate -\r\n                        Hazipara - Rampura Bazar - Rampura Bridge - Merul - Badda - Shahjadpur - Bashtola - Notun Bazar\r\n                        - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road"
+    },
+    {
+        "Bus Name": "VIP 27",
+        "Route": "Route: Azimpur - Nilkhet - New Market - City College - Kalabagan\r\n                        - Banani - Kakali - MES - Shewra - Kuril Bishwa Road - Khilkhet - Airport - Jashimuddin (Uttara)\r\n                        - Rajlakshmi - Azampur - House Building - Abdullahpur - Tongi - Station Road - Mill Gate - Board\r\n                        Bazar - Gazipur Chourasta"
+    },
+    {
+        "Bus Name": "Welcome",
+        "Route": "Route: Nandan Park - Zirani Bazar - Baipayl - Nobinagar - Savar -\r\n                        Hemayetpur - Amin Bazar - Gabtoli - Technical - Kallyanpur - Shyamoli - Shishu Mela - College\r\n                        Gate - Asad Gate - Khamar Bari - Farmgate - Kawran Bazar - Bangla Motor - Shahbag - High Court -\r\n                        Press Club - Paltan - GPO - Gulistan - Motijheel"
+    },
+    {
+        "Bus Name": "Winner",
+        "Route": "Route: Azimpur - Eden College - Nilkhet - New Market - Science\r\n                        Lab - City College - Kalabagan - Panthapath - Kawran Bazar - Bot tola - Nabisco - Mohakhali -\r\n                        Wireless - Gulshan 1 - Badda - Badda Link Road - Uttar Badda - Shahjadpur - Bashtola - Notun\r\n                        Bazar - Nadda - Bashundhara - Jamuna Future Park - Kuril Bishwa Road"
+    }
+]
