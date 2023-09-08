@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bus Route Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <script src="/static/js/h2c.min.js"></script>
+
+</head>
+<body class="bg-red-500 flex flex-col justify-center items-center min-h-screen" id="container">
+    <div class="container p-8 bg-white rounded-lg shadow-md text-center mb-10 max-w-md mx-auto" >
+        
+        {% if route %}
+        <p class="mb-2"><strong class="text-2xl font-bold mb-4 text-red-500">Bus Name:</strong> <span><strong class="text-2xl font-bold mb-4 text-black">{{ bus_name }}</strong></span></p>
+        <p class="mb-2"><strong class="text-2xl font-bold mb-4 text-red-500">Route:</strong></p>
+        <ul class="list-disc ml-6">
+            {{ route | safe }} 
+        </ul>
+        {% else %}
+        <p class="text-red-500">Bus not found.</p>
+        {% endif %}
+        <a href="/" class="back-link mt-4 text-red-500 font-bold block">Back to Search</a>
+    </div>
+    
+
+    <div id="canvasWrapper" class="w-screen flex justify-center items-center">
+        <button
+            class="text-white p-3 rounded-md font-sans text-xl bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500"
+            onclick="download()">Save Route</button>
+    </div>
+
+    
+    <script>
+        function download() {
+            html2canvas(document.getElementById("container"), { height: 450, width: 1260 }).then(canvas => {
+                var a = document.createElement('a');
+                a.href = canvas.toDataURL("image/jpeg").replace("image/jpeg", "image/octet-stream");
+                a.download = 'route.jpg';
+                a.click();
+            });
+        }
+    </script>
+</body>
+</html>
